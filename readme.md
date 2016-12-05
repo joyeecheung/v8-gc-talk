@@ -1,5 +1,7 @@
 ### Are Your V8 GC Logs Speaking to You?
 
+**NOTE: this is for my talk at Node Live Beijing, which preceded the talk at Node Interactive 2016. If you are coming for the slides of that NINA talk, [please click here](https://github.com/joyeecheung/talks/tree/master/node_interactive_2016).**
+
 For my talk at [Node Live Beijing](http://live.nodejs.org/events/beijing.html), May 2016.
 
 > Chau Yee is an intern at alinode, currently working on analysis and visualization of V8 GC logs, heapdumps and CPU profiles.
